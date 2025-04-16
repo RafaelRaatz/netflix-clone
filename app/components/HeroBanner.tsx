@@ -85,7 +85,7 @@ export default function HeroBanner() {
               ▶ Assistir
             </button>
             <button className="bg-zinc-700/80 px-5 py-2 rounded hover:bg-zinc-600 text-sm font-semibold">
-              ℹ️ Mais informações
+              Mais informações
             </button>
           </div>
         </div>
