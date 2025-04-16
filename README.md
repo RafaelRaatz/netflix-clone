@@ -1,4 +1,4 @@
-# next spotify
+# next Netflix
 
 Este projeto é de uma recriação do layout site de streaming de filmes netflix desenvolvido com Next.js.
 A estilização foi feita com Tailwind CSS.
