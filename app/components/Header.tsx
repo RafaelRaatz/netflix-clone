@@ -24,11 +24,11 @@ export default function Header() {
         <h1 className="text-2xl font-bold text-red-600">Netflix</h1>
 
         <nav className="hidden md:flex gap-6 text-white text-sm font-medium">
-          <a href="#">Início</a>
-          <a href="#">Séries</a>
-          <a href="#">Filmes</a>
-          <a href="#">Bombando</a>
-          <a href="#">Minha Lista</a>
+          <a href="#">Home</a>
+          <a href="#">Series</a>
+          <a href="#">Moveis</a>
+          <a href="#">Popular</a>
+          <a href="#">My List</a>
         </nav>
 
         <div className="flex items-center gap-4 text-white">

@@ -82,10 +82,10 @@ export default function HeroBanner() {
 
           <div className="mt-4 flex gap-4">
             <button className="bg-white text-black px-5 py-2 rounded hover:bg-gray-200 text-sm font-semibold">
-              ▶ Assistir
+              ▶ Watch
             </button>
             <button className="bg-zinc-700/80 px-5 py-2 rounded hover:bg-zinc-600 text-sm font-semibold">
-              Mais informações
+              More Information
             </button>
           </div>
         </div>

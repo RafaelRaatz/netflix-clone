@@ -10,9 +10,9 @@ export default function Home() {
         <HeroBanner />
 
         <section className="space-y-10 p-4 md:p-8">
-          <MovieRow title="Popular na Netflix" endpoint="/movie/popular" />
-          <MovieRow title="Em Alta Agora" endpoint="/trending/all/week" />
-          <MovieRow title="Melhores Avaliados" endpoint="/movie/top_rated" />
+          <MovieRow title="Popular on Netflix" endpoint="/movie/popular" />
+          <MovieRow title="Trending now" endpoint="/trending/all/week" />
+          <MovieRow title="Best rated" endpoint="/movie/top_rated" />
         </section>
       </main>
     </>
